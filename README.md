@@ -9,4 +9,4 @@
 * Git 
 * Google
 ### How To Run it Locally: 
-* You can download the compelete file,store in a folder. You can run the index.html file using a browser.
+* You can download the compelete code,store in a folder. You can run the index.html file using a browser.
