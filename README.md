@@ -3,7 +3,6 @@
 * HTML
 * CSS
 * JavaScript
-* MaterialUI
 ## Tools used to buil:
 * VS-code
 * Git 
